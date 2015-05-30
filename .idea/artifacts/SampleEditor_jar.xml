@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SampleEditor:jar">
+    <output-path>$PROJECT_DIR$/assets/</output-path>
+    <root id="archive" name="SampleEditor.jar">
+      <element id="module-output" name="SampleEditor" />
+    </root>
+  </artifact>
+</component>

@@ -5,4 +5,5 @@ package com.empty.execedit.models;
  */
 public class Constants {
     public static final String TEST_FILENAME = "test.txt";
+    public static final String EDITOR_BIN = "SampleEditor.jar";
 }
